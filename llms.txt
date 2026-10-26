@@ -1,0 +1,13 @@
+# Northwind Signal
+
+> Northwind Signal is a fictional AI marketing platform (concept demo by Charlene Cordero, sample content). It offers an Industry Analysis Agent, a B2B Social Media Manager and an AI Content Studio, with human approval before publishing.
+
+## Pages
+- [Home](https://chai-nextjs-demo.pages.dev/): overview, how it works, sample pricing, FAQ
+- [Features](https://chai-nextjs-demo.pages.dev/features/): the three agents in detail
+- [Pricing](https://chai-nextjs-demo.pages.dev/pricing/): Starter $49/mo, Growth $149/mo, Scale custom (sample prices)
+- [Contact](https://chai-nextjs-demo.pages.dev/contact/): book a demo
+
+## Blog
+- [Answer Engine Optimization for B2B sites](https://chai-nextjs-demo.pages.dev/blog/answer-engine-optimization-for-b2b/)
+- [From signals to posts: agentic marketing briefs](https://chai-nextjs-demo.pages.dev/blog/agentic-marketing-briefs/)

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://chai-nextjs-demo.pages.dev
+Sitemap: https://chai-nextjs-demo.pages.dev/sitemap.xml
